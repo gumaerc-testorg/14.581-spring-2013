@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 16.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-581-international-economics-i-spring-2013/06fac88cfafff8464d7ed1d38720ea77_MIT14_581S13_classnotes16.pdf
+file: /media/courses/14-581-international-economics-i-spring-2013/06fac88cfafff8464d7ed1d38720ea77_MIT14_581S13_classnotes16.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Lecture 16 Notes
 uid: 06fac88c-faff-f846-4d7e-d1d38720ea77
