@@ -5,6 +5,7 @@ file: /courses/14-581-international-economics-i-spring-2013/ee67087ee3ba6872d6d9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 12 Notes
 uid: ee67087e-e3ba-6872-d6d9-9981031f94e9
 ---
 This file contains information regarding lecture 12.
-

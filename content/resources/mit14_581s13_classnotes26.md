@@ -5,6 +5,7 @@ file: /courses/14-581-international-economics-i-spring-2013/cbd08e423fa94ffdc83e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 26 Notes
 uid: cbd08e42-3fa9-4ffd-c83e-ae52ecd47b54
 ---
 This file contains information regarding lecture 26.
-

@@ -5,6 +5,7 @@ file: /courses/14-581-international-economics-i-spring-2013/d1d2530d79a2929f2994
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 19 Notes
 uid: d1d2530d-79a2-929f-2994-1c4b077ba1ff
 ---
 This file contains information regarding lecture 19.
-

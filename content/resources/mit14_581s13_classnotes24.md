@@ -5,6 +5,7 @@ file: /courses/14-581-international-economics-i-spring-2013/554211e9fc6050eb8140
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 24 Notes
 uid: 554211e9-fc60-50eb-8140-3bafd99d6e07
 ---
 This file contains information regarding lecture 24.
-

@@ -5,6 +5,7 @@ file: /courses/14-581-international-economics-i-spring-2013/86aa2a7049efff9bcf46
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 7 Notes
 uid: 86aa2a70-49ef-ff9b-cf46-e55d875484c0
 ---
 This file contains information regarding lecture 7.
-

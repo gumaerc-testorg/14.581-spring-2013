@@ -5,6 +5,7 @@ file: /courses/14-581-international-economics-i-spring-2013/24456fc46c1428a3a4ca
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 8 Notes
 uid: 24456fc4-6c14-28a3-a4ca-f11ab8210523
 ---
 This file contains information regarding lecture 8.
-

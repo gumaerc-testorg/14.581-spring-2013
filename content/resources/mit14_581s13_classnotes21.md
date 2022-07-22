@@ -5,6 +5,7 @@ file: /courses/14-581-international-economics-i-spring-2013/17f7301c9b481bc00082
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 21 Notes
 uid: 17f7301c-9b48-1bc0-0082-2c2d6116de21
 ---
 This file contains information regarding lecture 21.
-

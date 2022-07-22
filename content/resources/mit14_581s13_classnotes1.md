@@ -5,6 +5,7 @@ file: /courses/14-581-international-economics-i-spring-2013/ea3bcd71f39e10c87e85
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 1 Notes
 uid: ea3bcd71-f39e-10c8-7e85-e0d1418965ba
 ---
 This file contains information regarding lecture 1.
-

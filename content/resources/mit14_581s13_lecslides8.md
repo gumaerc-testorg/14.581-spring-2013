@@ -5,6 +5,7 @@ file: /courses/14-581-international-economics-i-spring-2013/c0359c073b8b85689663
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Session 8 lecture slides
 uid: c0359c07-3b8b-8568-9663-f6d69deb2e93
 ---
 This resource contains information regarding lecture slide 8.
-
