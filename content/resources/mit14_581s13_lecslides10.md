@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding lecture slide 10.
 file: /courses/14-581-international-economics-i-spring-2013/bb7de517dfa24ab942b5eadcda68e9ea_MIT14_581S13_Lecslides10.pdf
+file_size: 599040
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
