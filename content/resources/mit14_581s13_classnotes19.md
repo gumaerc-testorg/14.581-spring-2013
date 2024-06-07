@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding lecture 19.
 file: /courses/14-581-international-economics-i-spring-2013/d1d2530d79a2929f29941c4b077ba1ff_MIT14_581S13_classnotes19.pdf
+file_size: 231432
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
