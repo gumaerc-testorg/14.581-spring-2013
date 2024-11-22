@@ -57,7 +57,7 @@ Lecture 1: Gains from Trade and the Law of Comparative Advantage (Theory)
 
 Deardorff, A. "[The General Validity of the Law of Comparative Advantage](http://www.jstor.org/stable/1833142)." *Journal of Political Economy* 88, no. 5 (1980): 941–57.
 
-Dixit, A., and V. Norman. "[Gains from Trade without Lump-Sum Compensation](http://dx.doi.org/10.1016/0022-1996(86)90008-5)." *Journal of International Economics* 21, no. 1–2 (1986): 111–22.
+Dixit, A., and V. Norman. "[Gains from Trade without Lump-Sum Compensation](http://dx.doi.org/10.1016/0022-1996%2886%2990008-5)." *Journal of International Economics* 21, no. 1–2 (1986): 111–22.
 
 Samuelson, P. "[The Gains from International Trade](http://www.jstor.org/stable/137133)." *Cambridge Journal of Economics* (1939): 195–205.
 
@@ -119,7 +119,7 @@ Ohnsorge, F., and D. Trefler. "[Sorting It Out: International Trade and Protecti
 
 ### Recommended (Worker Heterogeneity and Labor Markets)
 
-Acemoglu, D., and D. Autor. "[Skills, Tasks and Technologies: Implications for Employment and Earnings](http://dx.doi.org/10.1016/S0169-7218(11)02410-5)." *Handbook of Labor Economics* 4 (2011): 1043–171.
+Acemoglu, D., and D. Autor. "[Skills, Tasks and Technologies: Implications for Employment and Earnings](http://dx.doi.org/10.1016/S0169-7218%2811%2902410-5)." *Handbook of Labor Economics* 4 (2011): 1043–171.
 
 Heckman, J., and B. Honore. "[The Empirical Content of the Roy Model](http://www.jstor.org/stable/2938303)." *Econometrica* 58, no. 5 (1990): 1121–49.
 
@@ -183,7 +183,7 @@ Lecture 7: Assignment Models (Empirics)
 
 Costinot, A., and D. Donaldson. "[How Large Are the Gains from Economic Integration? Theory and Evidence from US Agriculture, 1880-2002." (PDF)](https://pdfs.semanticscholar.org/25f7/6eaf121b65a2ed3443f9da5bba88de05944d.pdf) Working Paper, 2011.
 
-Costinot, A., D. Donaldson, et al. "[Evolving Comparative Advantage and the Impact of Climate Change in Agricultural Markets: Evidence from a 9 Million-Field Partition of the Earth (PDF - 2.2MB)](http://www.hans-moeller-seminar.vwl.uni-muenchen.de/download/costinot-paper.pdf)." 2012.
+Costinot, A., D. Donaldson, et al. "[Evolving Comparative Advantage and the Impact of Climate Change in Agricultural Markets: Evidence from a 9 Million-Field Partition of the Earth (PDF](http://www.hans-moeller-seminar.vwl.uni-muenchen.de/download/costinot-paper.pdf))." 2012.
 
 Costinot, A., and D. Donaldson. "[Ricardo's Theory of Comparative Advantage: Old Idea, New Evidence](http://dx.doi.org/10.1257/aer.102.3.453)." *American Economic Review Papers and Proceedings* 102, no. 3 (2012): 453–58.
 
@@ -255,7 +255,7 @@ Hartigan. "Specialization and the Volume of Trade: Do the Data Obey the Laws?" *
 
 ### Recommended
 
-Bernstein, Jeffrey R, and D. Weinstein. "[Do Endowments Predict the Location Of Production?: Evidence from National and International Data](http://dx.doi.org/10.1016/S0022-1996(01)00108-8)." *Journal of International Economics* 56, no. 1 (2002): 55–76.
+Bernstein, Jeffrey R, and D. Weinstein. "[Do Endowments Predict the Location Of Production?: Evidence from National and International Data](http://dx.doi.org/10.1016/S0022-1996%2801%2900108-8)." *Journal of International Economics* 56, no. 1 (2002): 55–76.
 
 Blum, Bernardo S. "[Endowments, Output, and the Bias of Directed Innovation](http://dx.doi.org/10.1111/j.1467-937X.2009.00579.x)." *Review of Economic Studies* 77, no. 2 (2010): 534–59.
 
@@ -293,7 +293,7 @@ Debaere, Peter. "[Relative Factor Abundance and Trade](http://ideas.repec.org/a/
 
 Gabaix, X. "The Factor Content of Trade: A Rejection of the Heckscher-Ohlin-Leontief Hypothesis." Mimeo, Harvard, 1997.
 
-Hakura, Dalia S. "[Why does HOV fail?: The Role of Technological Differences Within the EC](http://dx.doi.org/10.1016/S0022-1996(00)00096-9)." *Journal of International Economics* 54, no. 2 (2001): 361–82.
+Hakura, Dalia S. "[Why does HOV fail?: The Role of Technological Differences Within the EC](http://dx.doi.org/10.1016/S0022-1996%2800%2900096-9)." *Journal of International Economics* 54, no. 2 (2001): 361–82.
 
 Trefler, Daniel. "[The Case of the Missing Trade and Other Mysteries](http://ideas.repec.org/a/aea/aecrev/v85y1995i5p1029-46.html)." *American Economic Review* 85, no. 5 (1995): 1029–46.
 
@@ -307,7 +307,7 @@ Trefler, Daniel, and Susan Chun Zhu. "[The Structure of Factor Content Predictio
 
 Bernard, Redding, et al. ["Testing for Factor Price Equality with Unobserved Differences in Factor Quality or Productivity." (PDF)](http://mba.tuck.dartmouth.edu/pages/faculty/andrew.bernard/usfpe.pdf) Working Paper.
 
-Slaughter, Mathew. "[Does Trade Liberalization Converge Factor Prices? Evidence From the Antebellum Transportation Revolution](http://dx.doi.org\10.1080/09638190110061348)." *Journal of International Trade and Economic Development* 10, no. 3 (2001): 339–62.
+Slaughter, Mathew. "[Does Trade Liberalization Converge Factor Prices? Evidence From the Antebellum Transportation Revolution](http://dx.doi.org/10.1080/09638190110061348)." *Journal of International Trade and Economic Development* 10, no. 3 (2001): 339–62.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12 & 13
@@ -337,7 +337,7 @@ Bernard, Eaton, et. al. "[Plants and Productivity in International Trade](http:/
 
 Roberts, and Tybout. "[The Decision to Export in Colombia: An Empirical Model of Entry with Sunk Costs](http://ideas.repec.org/a/aea/aecrev/v87y1997i4p545-64.html)." *American Economic Review* 87, no. 4 (1997): 545–64.
 
-Bernard, Andrew B., and J. Bradford Jensen. "[Exceptional Exporter Performance: Cause, Effect, or Both?](http://dx.doi.org/10.1016/S0022-1996(98)00027-0)" *Journal of International Economics* 47, no. 1 (1999): 1–25.
+Bernard, Andrew B., and J. Bradford Jensen. "[Exceptional Exporter Performance: Cause, Effect, or Both?](http://dx.doi.org/10.1016/S0022-1996%2898%2900027-0)" *Journal of International Economics* 47, no. 1 (1999): 1–25.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14 & 15
@@ -437,7 +437,7 @@ Donaldson, Dave. "[Railroads of the Raj: Estimating the Impact of Transportation
 
 Anderson, James E., and Van Wincoop. "[Gravity with Gravitas: A Solution to the Border Puzzle](http://dx.doi.org/10.1257/000282803321455214)." *American Economic Review* 93, no. 1 (2003): 170–92.
 
-Rauch, James E. "[Networks Versus Markets in International Trade](http://dx.doi.org/10.1016/S0022-1996(98)00009-9)." *Journal of International Economics* 48, no. 1 (1999): 7–35.
+Rauch, James E. "[Networks Versus Markets in International Trade](http://dx.doi.org/10.1016/S0022-1996%2898%2900009-9)." *Journal of International Economics* 48, no. 1 (1999): 7–35.
 
 Hummels, and Hilberry. "[Trade Responses to Geographic Frictions: A Decomposition Using MicroData](http://www.nber.org/papers/w11339)." *European Economic Review* 52, no. 3 (2008): 527–50. (NBER Working Paper no. 11339)
 
