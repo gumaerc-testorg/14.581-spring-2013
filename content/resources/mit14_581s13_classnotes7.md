@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 7.
-file: /ol-ocw-studio-app/courses/14-581-international-economics-i-spring-2013/86aa2a7049efff9bcf46e55d875484c0_MIT14_581S13_classnotes7.pdf
+file: /courses/14-581-international-economics-i-spring-2013/86aa2a7049efff9bcf46e55d875484c0_MIT14_581S13_classnotes7.pdf
 file_size: 1777101
 file_type: application/pdf
 learning_resource_types:
