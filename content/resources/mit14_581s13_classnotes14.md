@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 14.
-file: /ol-ocw-studio-app/courses/14-581-international-economics-i-spring-2013/950593328724e4308e012b235d2cf1f6_MIT14_581S13_classnotes14.pdf
+file: /courses/14-581-international-economics-i-spring-2013/950593328724e4308e012b235d2cf1f6_MIT14_581S13_classnotes14.pdf
 file_size: 256352
 file_type: application/pdf
 learning_resource_types:

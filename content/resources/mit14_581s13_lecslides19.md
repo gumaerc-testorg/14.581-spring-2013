@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding lecture slide 19.
-file: /ol-ocw-studio-app/courses/14-581-international-economics-i-spring-2013/55452784a6a887e7c37bd5c39e983e3d_MIT14_581S13_Lecslides19.pdf
+file: /courses/14-581-international-economics-i-spring-2013/55452784a6a887e7c37bd5c39e983e3d_MIT14_581S13_Lecslides19.pdf
 file_size: 347782
 file_type: application/pdf
 learning_resource_types:
