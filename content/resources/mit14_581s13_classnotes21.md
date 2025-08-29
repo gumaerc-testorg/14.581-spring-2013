@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 21.
-file: /courses/14-581-international-economics-i-spring-2013/17f7301c9b481bc000822c2d6116de21_MIT14_581S13_classnotes21.pdf
+file: /ol-ocw-studio-app/courses/14-581-international-economics-i-spring-2013/17f7301c9b481bc000822c2d6116de21_MIT14_581S13_classnotes21.pdf
 file_size: 1227911
 file_type: application/pdf
 learning_resource_types:
