@@ -21,11 +21,11 @@ Referee Report
 
 One referee report on either:
 
-Faber, Benjamin. "[Trade Integration, Market Size, and Industrialization: Evidence from China's National Trunk Highway System](http://cep.lse.ac.uk/pubs/download/dp1244.pdf)."  July 17, 2013. 
+Faber, Benjamin. "{{% resource_link "4f18d4b5-e885-4141-95f4-3f3f8f9b57ee" "Trade Integration, Market Size, and Industrialization: Evidence from China's National Trunk Highway System" %}}."  July 17, 2013. 
 
 OR
 
-Allen, Treb. "[Information Frictions in Trade](https://ideas.repec.org/a/wly/emetrp/v82y2014ip2041-2083.html)."  October 25, 2011.   
+Allen, Treb. "{{% resource_link "69dd2f55-3fd4-4d13-a3e2-82f1af71765c" "Information Frictions in Trade" %}}."  October 25, 2011.   
 
 These are two recent and successful job market papers on topics in international trade. Your report should be 5+ pages long and include:
 
